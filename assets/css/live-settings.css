@@ -147,3 +147,8 @@ a#open-popup {
 
 .home-boxed .swin-sc-team-slider .next-slide {
   right: -20px; }
+
+
+  .profile-pic img{
+    width: 450px !important;
+  }

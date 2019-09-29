@@ -150,3 +150,7 @@ div[class*='col-'] .item{
 	font-size: 12px;
     color: #333;
 }
+
+.profile-pic img{
+	width: 450px !important;
+}
